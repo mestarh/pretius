@@ -10,11 +10,12 @@ using System.Windows.Forms;
 
 namespace Pretius
 {
-    public partial class Form1 : Form
+    public partial class Pretius : Form
     {
-        public Form1()
+        public Pretius()
         {
             InitializeComponent();
         }
+
     }
 }
